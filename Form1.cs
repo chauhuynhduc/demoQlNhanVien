@@ -18,6 +18,7 @@ namespace demoQlNhanVien
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             if (txtA.Text != "" && txtB.Text != "")
             {
                 double a = double.Parse(txtA.Text);
@@ -25,6 +26,7 @@ namespace demoQlNhanVien
                 double c = a + b;
                 txtKetQua.Text = c.ToString();
             }
+
         }
     }
 }
