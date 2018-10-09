@@ -43,7 +43,7 @@
             this.btnCong_Click.Name = "btnCong_Click";
             this.btnCong_Click.Size = new System.Drawing.Size(92, 44);
             this.btnCong_Click.TabIndex = 0;
-            this.btnCong_Click.Text = "add";
+            this.btnCong_Click.Text = "Cộng";
             this.btnCong_Click.UseVisualStyleBackColor = true;
             this.btnCong_Click.Click += new System.EventHandler(this.button1_Click);
             // 
